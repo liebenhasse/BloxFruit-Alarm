@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+wheels/
+*.egg-info
+
+# PyInstaller build artifacts (keep dist/ for the executable)
+build/
+*.spec
+
+# Virtual environments
+.venv
+
+# Runtime config (generated per-user)
+watchlist.json
+.python-version
